@@ -2,8 +2,7 @@
 
 ## AIM:
   To write a program to implement Data Encryption Standard (DES).
-
-
+  
 ## ALGORITHM:
  ### STEP-1: 
  Read the 64-bit plain text.
@@ -16,7 +15,6 @@ Perform XOR operation between these two arrays.
  ### STEP-5: 
  Thus the encrypted 64-bit cipher text is obtained in this way. Repeat the same process for the remaining plain text characters.
 
-  
 ## PROGRAM:
 ```C
     #include <stdio.h>
